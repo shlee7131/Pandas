@@ -6,3 +6,4 @@ Pandas Basic & Pracitce
 - Subset Observation
 - Python Regular Expression
 - Summarize Data
+- Handling Missing Data
